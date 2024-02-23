@@ -128,8 +128,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'azkotb@gmail.com'
-EMAIL_HOST_PASSWORD = 'HelloWorld011##'
+EMAIL_HOST_USER = '@gmail.com'
+EMAIL_HOST_PASSWORD = '##'
 
 # Contact Form Settings
 CONTACT_EMAIL = 'your_contact_email@example.com'
